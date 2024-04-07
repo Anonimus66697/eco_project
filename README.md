@@ -7,4 +7,4 @@
 - from model import get_class
 
 ## Референсы, которые мне пригодятся
-- Референс [1](https://github.com/Anonimus66697/Discord-Image-Classification-Bot.git)
+- Референс [Тык](https://github.com/Anonimus66697/Discord-Image-Classification-Bot.git)
