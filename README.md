@@ -5,6 +5,7 @@
 - Библиотека import discord
 - Библиотека from discord.ext import commands
 - from model import get_class
+- import random
 
 ## Референсы, которые мне пригодятся
 - Референс [Тык](https://github.com/Anonimus66697/Discord-Image-Classification-Bot.git)
